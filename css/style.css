@@ -62,6 +62,20 @@ h1 {
 	line-height:1.2em;
 	text-transform:none;
 }
+
+h3 {
+	margin:0;
+	padding:10px 0 0;
+	font-size:20px;
+	font-weight:normal;
+	line-height:1.2em;
+	text-transform:none;
+}
+
+h3 span {
+	color:#fff;
+}
+
 h1 a, h1 a:hover {
 	color:#1ca2ce;
 	text-decoration:none;
@@ -180,6 +194,12 @@ h1 small {
 	margin:0 0 32px;
 	padding:0 0 0 20px;
 }
+
+.article_contact {
+	margin:0 0 0px;
+	padding:0 0 0 20px;
+}
+
 .content .mainbar .post_content {
 	float:left;
 	width:640px;
