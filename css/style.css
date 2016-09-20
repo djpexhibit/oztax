@@ -4,9 +4,9 @@ body {
 	margin:0;
 	padding:0;
 	width:100%;
-	color:#000 	;
-	font:normal 12px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
-	background:#1ca2ce url(../images/main_bg.gif) repeat-x left top;
+	color:#333333;
+	font: Arial, Helvetica, sans-serif;
+	background:#d8d8d8 url(../images/main_bg.gif) repeat-x left top;
 }
 html, .main {
 	padding:0;
@@ -313,6 +313,7 @@ p.infopost a {
 }
 .fbg {
 	border-top:1px solid #21c3e1;
+	background-color:white;
 }
 .fbg_resize {
 	margin:0 auto;
