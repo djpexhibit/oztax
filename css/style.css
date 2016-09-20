@@ -180,6 +180,11 @@ h1 small {
 	margin:0 0 32px;
 	padding:0 0 0 20px;
 }
+
+.article_contact{
+	margin:0 0 15px;
+}
+
 .content .mainbar .post_content {
 	float:left;
 	width:640px;
