@@ -154,7 +154,7 @@ h1 small {
 }
 .menu_nav ul li.active a, .menu_nav ul li a:hover {
 	text-decoration:none;
-	color:#114044;
+	color:#333333;
 	background:#fff;
 }
 .content {
@@ -262,11 +262,11 @@ p.spec {
 p.infopost {
 	margin-bottom:8px;
 	padding:0 0 8px;
-	color:#114044;
+	color:#333333;
 }
 p.infopost a {
 	padding:0 2px;
-	color:#114044;
+	color:#333333;
 	text-decoration:underline;
 }
 .content .mainbar a.com {
@@ -343,7 +343,7 @@ p.infopost a {
 	margin:0 auto;
 	width:920px;
 	padding:16px 20px;
-	color:#114044;
+	color:#333333;
 }
 .fbg h2 {
 	color:#333333;
@@ -384,7 +384,7 @@ p.infopost a {
 	display:block;
 	margin:0;
 	padding:2px 0 2px 12px;
-	color:#114044;
+	color:#333333;
 	text-decoration:none;
 	background:url(../images/li.gif) no-repeat left center;
 }
